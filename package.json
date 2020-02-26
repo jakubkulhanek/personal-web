@@ -1,0 +1,13 @@
+{
+  "name": "Personal",
+  "version": "1.0.0",
+  "description": "Personal website",
+  "main": "index.html",
+  "author": "Jakub Kulhanek",
+  "license": "MIT",
+  "private": true,
+  "dependencies": {
+    "bootstrap": "^4.4.1",
+    "jquery": "^3.4.1"
+  }
+}
